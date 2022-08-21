@@ -1,0 +1,70 @@
+
+body{
+    background-size:auto;
+    background-clip:border-box;
+    background-repeat:repeat;
+    background-attachment:fixed;
+    background-position-y:0%;
+    background-image:linear-gradient(-128deg, #03001e 0%, #7303c0 25%, #03001e 44%, #03001e 50%, #03001e 54%, #03001e 59%, #03001e 68%, #03001e 71%, #ec38bc 88%, #fdeff9 100%);
+    transition: 0.5s;
+}
+   
+   
+.head h1{
+    background-color: dodgerblue;
+    padding: 10px;
+    width: max-content;
+    border-radius: 11px;
+    color: red;
+    margin-left: 350px ;
+    margin: auto;
+    transition: 0.5s;
+}
+.head button{
+color: aqua;
+
+    transform:translatex(549px) translatey(55px);
+    width:63px;
+    min-height:30px;
+    background-color:#860707;
+    border-style:none;
+    border-top-left-radius:10px;
+    border-top-right-radius:0px;
+    border-bottom-left-radius:0px;
+    border-bottom-right-radius:10px;
+    box-shadow:0px 0px 12px 0px #00ffff;
+    transition: 0.5s;
+}
+h3{
+    background-color: lightseagreen;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    transform:translatex(4px) translatey(124px);
+    transition: 0.5s;
+}
+.sub a button{
+    transform:translatex(549px) translatey(159px);
+    width:80px;
+    min-height:46px;
+    color:#6c0303;
+    background-color:#f44747;
+    border-style:none;
+    border-top-right-radius:24px;
+    border-bottom-right-radius:0px;
+    border-bottom-left-radius:24px;
+    box-shadow:-8px -6px 50px -6px #34495e inset;
+   }
+   
+
+    
+
+    
+    
+
+   .head a button:hover{
+    color:#ffffff;
+    box-shadow:0px 0px 12px 0px #c19393;
+   }
+   
+   

@@ -1,0 +1,134 @@
+h1{
+    
+    color: tomato;
+    background-color: blue;
+    width: max-content;
+    margin-left: 450px;
+    padding: 10px;
+    border-style: solid;
+    border-color: aqua;
+    border-radius: 11px;
+    margin: auto;
+    box-shadow: 0px 0px 10px 5px blue;
+
+}
+body{
+    background-image: url(thumbimg_25361957thumbejpg.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    transition: 0.5s;
+    text-align: center;
+    margin: auto;
+   
+}
+ul{
+    background-color: tomato;
+    padding: 10px;
+    box-shadow: 0px 0px 10px 0px tomato;
+    margin: 11px auto;
+    text-align: center;
+    border-radius: 11px;
+    width:696px;
+}
+ul li {
+    text-decoration: none;
+    display: inline-flex;
+    text-align: center;
+    margin: 10px;
+    
+    
+}
+
+ul li a{
+    visibility:visible;
+    float:none;
+    align-self:auto;
+    border-width:4px;
+    border-style:solid;
+    border-color:transparent;
+    border-top-left-radius:12px;
+    border-top-right-radius:12px;
+    border-bottom-left-radius:12px;
+    border-bottom-right-radius:12px;
+    margin-bottom:5px;
+    box-shadow: 0px 0px 10px 5px greenyellow;
+    width:127px;
+    height:19px;
+    overflow:hidden;
+    min-width:0px;
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+   }
+   
+   h2{
+    color: aqua;
+    background-color: rgb(21, 79, 61);
+    width: max-content;
+    margin-left:530px;
+    border-radius: 10px;
+    padding: 6px;
+    filter:blur(0.18px) saturate(3.92);
+ float:none;
+ opacity:14;
+ display:block;
+ clear:both;
+  box-shadow: 0px 0px 10px 5px rgb(105, 181, 202);
+  transform:translatex(10px) translatey(6px) !important;
+   margin: auto;
+
+}
+
+   ul li a:hover{
+    box-shadow: 0px 0px 10px 10px greenyellow;
+   }
+   a h3{
+   margin-left: 530px;
+ background-color:#ce0707;
+ background-size:auto;
+ background-blend-mode:screen;
+ background-repeat:repeat-y;
+ backdrop-filter:blur(6.24px) brightness(10) contrast(10) grayscale(0.73) hue-rotate(314deg);
+ position:static;
+ width: max-content;
+text-decoration:none;
+color: black;
+padding: 6px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px 5px rgb(4, 18, 43);
+text-align: center;
+margin: auto;
+
+   }
+
+   a{
+    text-decoration: none;
+    
+   }
+   
+iframe{
+    border-style: solid ;
+    padding: 50px;
+    transition: 1s;
+    margin-left: 60px ;
+    text-align: center;
+    border-radius:100px ;
+    border-color: black;
+    border-style: solid;
+    transition: 1s;
+   background-color: black;
+   padding: 10px;
+   margin: auto;
+   margin-left:14px !important;
+ margin-top:5px !important;
+ margin-bottom:19px !important;
+   }
+   
+   iframe:hover{
+    border-radius: 0px;
+   }
+
+
+

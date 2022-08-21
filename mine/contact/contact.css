@@ -1,0 +1,101 @@
+H1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    width: max-content;
+    margin-left: 400px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 10px;
+    transition: 0.5s;
+    transform:translatex(-56px) translatey(36px);
+}
+body{
+    background-image: url(depositphotos_74468913-stock-photo-contact-us-icons-on-cubes.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    transition: 0.5s;
+    text-align: center;
+    margin: auto;
+}
+table{
+    background-color: rgb(137, 184, 255);
+    border-color: aqua;
+    margin-left: 410px;
+    transition: 1S;
+    width: 500px;
+    height: 200px;
+    color: white;
+    text-align: center;
+    transform:translatex(-59px) translatey(74px);
+}
+TR th {
+    text-align: center;
+}
+tr td {
+    text-align: center;
+    text-overflow: clip;
+}
+
+tr th:hover{
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s
+}
+tr td:hover{
+    background-color: gray;
+    color: black;
+    cursor: pointer;
+    transition: 0.5s
+}
+button{
+    color: rgb(192, 26, 26);
+    background-color: tomato;
+    border-color: brown;
+    box-shadow: 0px 0px 10px 0px tomato;
+    border-radius: 11px;
+    transition: 0.5s;
+    text-align: center;
+                
+}
+button:hover{
+    box-shadow: 0px 0px 10px 10px tomato;
+}
+ul{
+text-align: center;
+margin-right: 7px;
+text-align: center;
+ 
+}
+
+ul li {
+    text-decoration: none;
+    display: inline-flex;
+    text-align: center;
+    text-align: center;
+}
+ul li button{
+
+    color: black;
+    margin-right:2500px ;
+    margin-bottom: 10px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 10px;
+    box-shadow: 0px 0px 10px 0px rgb(70, 4, 253);
+    transition: 00.5s;
+    text-align: center;
+    transform:translatex(187px) translatey(105px);
+}
+    ul li button:hover{
+        
+        box-shadow: 0px 0px 10px 0px rgb(4, 245, 253);
+
+
+    }
+    
+    
